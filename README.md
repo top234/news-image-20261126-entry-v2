@@ -1,8 +1,8 @@
 # The World in One Day — news-image-20261126 v2
 
-![make.fun badge](https://make.fun/badge/news-image-20261126.svg)
-![rank](https://make.fun/badge/news-image-20261126/top234/news-image-20261126-entry-v2/rank.svg)
-![reward](https://make.fun/badge/news-image-20261126/top234/news-image-20261126-entry-v2/reward.svg)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/top234/news-image-20261126-entry-v2/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/top234/news-image-20261126-entry-v2/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 A newspaper front page summing up **Thursday 26 November 2026** in one
 1024×1024 image: masthead, 3 hero stories, 10 medium cards, a
