@@ -390,12 +390,12 @@ CONTINENTS = [
 # leader line joins each pin to its true location (small navy dot).
 PINS = [
     (1, 50.0, 26.6, 42.0, 31.0),   # Ras Tanura
-    (2, -77.0, 38.9, -84.0, 33.0),  # Washington (tariffs)
-    (3, 56.6, 26.6, 64.0, 34.0),   # Hormuz
+    (2, 31.2, 30.0, 24.0, 23.0),   # Cairo
+    (3, -77.0, 38.9, -84.0, 33.0),  # Washington (tariffs)
     (4, 34.5, 31.4, 26.0, 40.0),   # Gaza
     (5, 32.0, 49.5, 31.0, 57.0),   # Ukraine refineries
     (6, 35.0, 48.0, 48.0, 44.0),   # Ukraine drones
-    (7, 31.2, 30.0, 24.0, 23.0),   # Cairo
+    (7, 56.6, 26.6, 64.0, 34.0),   # Hormuz
     (8, -74.0, 40.7, -68.0, 45.0),  # New York (Huawei trial)
     (9, 19.0, 52.0, 12.0, 60.0),   # Poland
     (10, -74.0, 4.6, -74.0, 4.6),  # Colombia
@@ -456,7 +456,7 @@ def render():
     # ---- medium rows (stories 4-13)
     medium = [
         ("4 \u00b7 MIDDLE EAST", "HAMAS COLONEL KILLED IN GAZA",
-         "Ceasefire under strain.", pic_burst),
+         "Israel kills colonel, family.", pic_burst),
         ("5 \u00b7 EUROPE", "UKRAINE STRIKES RUSSIAN OIL",
          "Five jets hit at Savasleyka.", pic_tower_flame),
         ("6 \u00b7 EUROPE", "RUSSIAN DRONES KILL SEVEN",
